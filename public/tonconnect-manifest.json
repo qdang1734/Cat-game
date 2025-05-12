@@ -1,0 +1,6 @@
+{
+  "name": "Kitty Mint Game",
+  "description": "Connect your TON wallet to play Kitty Mint!",
+  "url": "http://localhost:3000",
+  "iconUrl": "http://localhost:3000/icon-512.png"
+}
