@@ -1,0 +1,11 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+
+[build.environment]
+  REACT_APP_BACKEND_URL = "https://kitty-mint-api.adaptable.app" # Placeholder for backend URL
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
